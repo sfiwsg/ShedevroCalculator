@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Op5IbMJiVUt/gYmybl3mz8RrML48oUs/SyFhHehBxNTpKvtoL8CB4DZKTVsFVpk4bZcGj9wH6hHOdiGN20OAdQ==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\CalculatorNNew\\CalculatorNNew\\ShedevroCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACer\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\ACer\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512",
+    "C:\\Users\\ACer\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ACer\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
